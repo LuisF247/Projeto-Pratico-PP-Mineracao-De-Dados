@@ -35,7 +35,7 @@ Desenvolver um modelo de aprendizado de máquina capaz de **prever o preço (`pr
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/nizoelgp/Projeto-Pratico-PP-Mineracao-De-Dados.git]
+    git clone https://github.com/nizoelgp/Projeto-Pratico-PP-Mineracao-De-Dados.git
     ```
 2.  **Instale as bibliotecas necessárias:**
     ```bash
